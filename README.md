@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juhi Kansara</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuhiKansara&label=Profile%20Views&color=6DB33F&style=for-the-badge" />
+</p>
+
 <h3 align="center">
 Backend Developer • Java & Spring Boot Enthusiast • Curious Lifelong Learner 🚀
 </h3>
