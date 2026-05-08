@@ -124,7 +124,7 @@ Passionate about building scalable backend systems, solving real-world problems,
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/juhikansara/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -134,7 +134,7 @@ Passionate about building scalable backend systems, solving real-world problems,
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/JuhiKansara" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
