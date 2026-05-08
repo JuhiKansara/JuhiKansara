@@ -20,21 +20,73 @@ Passionate about building scalable backend systems, solving real-world problems,
 
 ---
 
-### 🛠️ Languages and Tools
+## 💻 Tech Arsenal
 
-<p align="left">
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" style="margin-right:10px;"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" style="margin-right:10px;"/></a>
-</p>
+<div align="center">
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Spring Boot
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=hibernate" width="45"/><br>Hibernate
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=kafka" width="45"/><br>Kafka
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Backend_Engineering-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Learning-System_Design-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Exploring-Scalable_Systems-orange?style=flat-square"/>
+
+</div>
 
 ---
 
@@ -48,31 +100,51 @@ Passionate about building scalable backend systems, solving real-world problems,
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JuhiKansara&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuhiKansara&theme=tokyonight" height="170"/>
 
-</p>
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:juhikansara03@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:juhikansara03@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
