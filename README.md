@@ -84,8 +84,9 @@ Passionate about building scalable backend systems, solving real-world problems,
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker
+<img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Microservices
 </td>
+
 </tr>
 </table>
 
