@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juhi Kansara</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuhiKansara&label=Profile%20Views&color=6DB33F&style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JuhiKansara&label=✨%20Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/JuhiKansara?label=Followers&logo=github&style=flat&color=0e75b6" />
+
+
+</div>
 
 <h3 align="center">
 Backend Developer • Java & Spring Boot Enthusiast • Curious Lifelong Learner 🚀
@@ -24,7 +29,7 @@ Passionate about building scalable backend systems, solving real-world problems,
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 My Tech Universe
 
 <div align="center">
 
@@ -99,7 +104,7 @@ Passionate about building scalable backend systems, solving real-world problems,
 #### 📌 Enterprise Asset & Ticket Management System
 > Multi-module backend system built using Spring Boot and PostgreSQL with asset workflows, ticket lifecycle management, workstation allocation, and role-based access control.
 
-#### 📌 IntelliQueue Simulator
+#### 📌 IntelliQueue Simulator – CPU & Process Scheduling Visualizer
 > Desktop-based process scheduling simulator implementing FCFS, SJF, Round Robin, and Priority Scheduling algorithms using Core Java and Swing.
 
 ---
@@ -107,8 +112,6 @@ Passionate about building scalable backend systems, solving real-world problems,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JuhiKansara&show_icons=true&theme=tokyonight" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuhiKansara&theme=tokyonight" height="170"/>
 
@@ -137,15 +140,15 @@ Passionate about building scalable backend systems, solving real-world problems,
 <br><br>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
 </a>
 
 <a href="mailto:juhikansara03@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"/>
 </a>
 
 </div>
