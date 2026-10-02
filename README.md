@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juhi Kansara 👋</h1>
+<h1 align="center">Hi, I'm Juhi Kansara</h1>
 
 <h3 align="center">Java Backend Developer • Spring Boot • Microservices</h3>
 
@@ -47,18 +47,18 @@ MCA graduate (2026) building backend applications with Java and Spring Boot.
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-#### 📌 Railway Reservation System
+ 
+## 📂 Featured Repositories
+ 
+#### 🚆 [Railway Reservation System](https://github.com/JuhiKansara/railway-reservation-system)
 Microservices-based railway booking backend built with Spring Boot and Spring Cloud. Uses Eureka for service discovery, an API Gateway as the single entry point, and JWT-based security.
-
-#### 📌 Inventory & Ticket Management System (IMS)
-Multi-module backend built during my internship using Spring Boot and PostgreSQL. Covers asset workflows, ticket lifecycle management, workstation allocation, and role-based access control.
-
-#### 📌 IntelliQueue – CPU Scheduling Simulator
-Desktop simulator for FCFS, SJF, Round Robin, and Priority scheduling, built with Core Java and Swing.
-
+ 
+#### 🛗 [Elevator System (Low-Level Design)](https://github.com/JuhiKansara/Elevator)
+Java implementation of an elevator system, designed with separate classes for requests, lifts, the building, and a dispatcher that assigns requests to lifts.
+ 
+#### 🧩 [LeetCode Solutions in Java](https://github.com/JuhiKansara/leetcode-java)
+Data structures and algorithms practice in Java, organized by topic.
+ 
 ---
 
 ## 📊 GitHub Stats
