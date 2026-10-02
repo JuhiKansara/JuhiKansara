@@ -53,7 +53,7 @@ MCA graduate (2026) building backend applications with Java and Spring Boot.
 #### 🚆 [Railway Reservation System](https://github.com/JuhiKansara/railway-reservation-system)
 Microservices-based railway booking backend built with Spring Boot and Spring Cloud. Uses Eureka for service discovery, an API Gateway as the single entry point, and JWT-based security.
  
-#### 🛗 [Elevator System (Low-Level Design)](https://github.com/JuhiKansara/Elevator)
+#### 🛗 [Elevator System](https://github.com/JuhiKansara/Elevator)
 Java implementation of an elevator system, designed with separate classes for requests, lifts, the building, and a dispatcher that assigns requests to lifts.
  
 #### 🧩 [LeetCode Solutions in Java](https://github.com/JuhiKansara/leetcode-java)
